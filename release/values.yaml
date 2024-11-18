@@ -1,3 +1,5 @@
+replicas: 3
+
 nodeSelector:
   nodegroup: management-nodes
 
